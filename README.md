@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Huss Khosravi
 
-💼 Data Scientist @ Bevington Group | 🧠 Strategy, Data Analytics, AI
+💼 Data Scientist @ Bevington Group | 🧠 Data Analytics, AI, Strategy
 
 ---
 
@@ -31,8 +31,8 @@
 ---
 
 ## 📚 Currently Learning
-- Finetuning LLMs (via [Sharon Zhou / DeepLearning.ai](https://www.deeplearning.ai))
-- Advanced Retrieval & ChromaDB for AI
+- Finetuning LLMs (via [DeepLearning.ai](https://www.deeplearning.ai))
+- Advanced Retrieval with ChromaDB for AI
 - Azure ML & Deployment Pipelines
 
 ---
