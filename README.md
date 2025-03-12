@@ -1,4 +1,6 @@
-# 👋 Hi, I’m Huss Khosravi
+![1674702509869](https://github.com/user-attachments/assets/ee4f8b34-b9f2-4d2c-9b7e-0c2138f60819)
+
+# 👋 Hi, I’m Huss. Welcome to my GitHub page!
 
 💼 Data Scientist @ Bevington Group | 🧠 Data Analytics, AI, Strategy
 
