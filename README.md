@@ -40,7 +40,7 @@
 
 ---
 
-[📄 Download My Resume] (./resume.pdf)
+[[📄 Download My Resume](https://img.shields.io/badge/Resume-PDF-blue)] (./resume.pdf)
 
 ---
 
