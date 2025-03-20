@@ -40,6 +40,10 @@
 
 ---
 
+[📄 Download My Resume] (./resume.pdf)
+
+---
+
 ## 📬 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/huss-khosravi/)
 - [Email](mailto:huss.khosravi@gmail.com)
