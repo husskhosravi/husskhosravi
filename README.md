@@ -10,7 +10,7 @@
 
 **Languages & Tools**  
 
-`Python` `SQL` `Power BI` `Scikit Learn` `TensorFlow` `PyTorch` `MySQL` `PostgreSQL` `Azure` `AWS` `GCP` `Snowflake` `DBT` `Jupyter` `VS Code` `Pandas` `Numpy` `Matplotlib` `Seaborn`
+`Python` `SQL` `Power BI` `Scikit Learn` `TensorFlow` `PyTorch` `MySQL` `PostgreSQL` `Azure` `AWS` `GCP` `Snowflake` `Docker` `Kubernetes` `CI/CD` `DBT` `Jupyter` `VS Code` `Pandas` `Numpy` `Matplotlib` `Seaborn`
 
 **Specialties**  
 - Predictive Modelling
