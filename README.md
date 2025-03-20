@@ -40,7 +40,7 @@
 
 ---
 
-[[📄 Download My Resume](https://img.shields.io/badge/Resume-PDF-blue)] (./resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue)](./Huss.Khosravi_Resume.pdf)
 
 ---
 
