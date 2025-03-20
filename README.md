@@ -25,7 +25,7 @@
 ---
 
 ## 🧠 Recent Projects
-- **(https://img.shields.io/badge/MLOps-%F0%9F%9A%80%20Deploy-blueviolet?style=for-the-b) Core MLOps Principles** → [View on GitHub](https://github.com/husskhosravi/simple-mlops-project)
+- **![MLOps](https://img.shields.io/badge/MLOps-%F0%9F%9A%80%20Deploy-blueviolet?style=for-the-badge) Core MLOps Principles** → [View on GitHub](https://github.com/husskhosravi/simple-mlops-project)
 - **📊 Breast Cancer Survival Prediction** → [View on GitHub](https://github.com/husskhosravi/breast-cancer-survival)
 - **📈 Consumption Forecasting using Time Series Models** → [View on GitHub](https://github.com/husskhosravi/ML-timeseries-forecasting)
 - **🔍 Enquiry Complexity Clustering** 
