@@ -7,7 +7,7 @@
 
 -  💼 Data Scientist @ Bevington Group | 🧠 Data Analytics, AI, Strategy
 -  📫 How to reach me: huss.khosravi@gmail.com
--  📚 I'm currently learning: Finetuning LLMs (via [DeepLearning.ai](https://www.deeplearning.ai)), Advanced Retrieval with ChromaDB for AI,  Azure ML & Deployment Pipelines
+-  📚 I'm currently learning: Finetuning LLMs (via [DeepLearning.ai](https://www.deeplearning.ai)), Advanced Retrieval with ChromaDB,  Azure ML & Deployment Pipelines
 ### 🧠 Recent Projects
 - 🚀 Core MLOps Principles → [View on GitHub](https://github.com/husskhosravi/simple-mlops-project)
 - 📊 Breast Cancer Survival Prediction → [View on GitHub](https://github.com/husskhosravi/breast-cancer-survival)
