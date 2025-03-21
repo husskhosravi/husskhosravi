@@ -3,7 +3,7 @@
 
 👋 Hi, I’m Huss. Welcome to my GitHub page!
 
--  💼 Data Scientist @ Bevington Group | 🧠 Data Analytics, AI, Strategy
+-  💼 Data Scientist @ Bevington Group | 🧠 Data Analytics, AI, Business Strategy
 -  📫 How to reach me: huss.khosravi@gmail.com
 -  📚 I'm currently learning: Finetuning LLMs (via [DeepLearning.ai](https://www.deeplearning.ai)), Advanced Retrieval with ChromaDB,  Azure ML & Deployment Pipelines
 ### 🧠 Recent Projects
