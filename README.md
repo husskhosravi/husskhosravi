@@ -1,7 +1,7 @@
 ![1674702509869](https://github.com/user-attachments/assets/ee4f8b34-b9f2-4d2c-9b7e-0c2138f60819)
 ---
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhusskhosravi%2Fhusskhosravi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
+###  Huss Khosravi
+---
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/huss-khosravi/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:huss.khosravi@gmail.com) [![Github](https://img.shields.io/github/followers/husskhosravi?label=Follow&style=social)](https://github.com/husskhosravi) [![Resume](https://img.shields.io/badge/Resume-PDF-blue)](./Huss.Khosravi_Resume.pdf)
 
 👋 Hi, I’m Huss. Welcome to my GitHub page!
@@ -9,6 +9,7 @@
 -  💼 Data Scientist @ Bevington Group | 🧠 Data Analytics, AI, Strategy
 -  📫 How to reach me: huss.khosravi@gmail.com
 -  📚 I'm currently learning: Finetuning LLMs (via [DeepLearning.ai](https://www.deeplearning.ai)), Advanced Retrieval with ChromaDB for AI,  Azure ML & Deployment Pipelines
+---
 ### 🧠 Recent Projects
 - 🚀 Core MLOps Principles → [View on GitHub](https://github.com/husskhosravi/simple-mlops-project)
 - 📊 Breast Cancer Survival Prediction → [View on GitHub](https://github.com/husskhosravi/breast-cancer-survival)
@@ -16,7 +17,7 @@
 - 🔍 Enquiry Complexity Clustering
 - 📉 FTE Forecasting Model
 - 🧾 Medical Claims Processing w/ GenA
-
+---
 ### 🖥 Skills
 
 - Predictive Modelling
