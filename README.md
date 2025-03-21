@@ -1,7 +1,6 @@
 ![1674702509869](https://github.com/user-attachments/assets/ee4f8b34-b9f2-4d2c-9b7e-0c2138f60819)
 ---
 ###  Huss Khosravi
-
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/huss-khosravi/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:huss.khosravi@gmail.com) [![Github](https://img.shields.io/github/followers/husskhosravi?label=Follow&style=social)](https://github.com/husskhosravi) [![Resume](https://img.shields.io/badge/Resume-PDF-blue)](./Huss.Khosravi_Resume.pdf)
 
 👋 Hi, I’m Huss. Welcome to my GitHub page!
