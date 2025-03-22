@@ -12,7 +12,7 @@
 - 📈 Consumption Forecasting using Time Series Models → [View on GitHub](https://github.com/husskhosravi/ML-timeseries-forecasting)
 - 🔍 Enquiry Complexity Clustering
 - 📉 FTE Forecasting Model
-- 🧾 Medical Claims Processing w/ GenA
+- 🧾 Medical Claims Processing w/ GenAI
 ### 🖥 Skills
 - Predictive Modelling
 - Deep Learning
