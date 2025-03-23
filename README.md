@@ -31,7 +31,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) 
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat-square&logo=microsoftazure&color=353535) 
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat-square&logo=amazonaws&color=353535) 
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat-square&logo=amazonwebservices&color=353535) 
 ![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat-square&logo=googlecloud&color=353535) 
 ![Snowflake](https://img.shields.io/badge/-Snowflake-05122A?style=flat-square&logo=Snowflake&color=353535) 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) 
@@ -42,9 +42,9 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat-square&logo=visualstudiocode&color=353535) 
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=pandas&color=353535) 
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=numpy&color=353535) 
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=matplotlib&color=353535) 
-![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat-square&logo=seaborn&color=353535) 
-![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-05122A?style=flat-square&logo=apache-airflow&color=353535)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) 
+![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat-square&logo=Seaborn&color=353535) 
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-05122A?style=flat-square&logo=apacheairflow&color=353535)
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=husskhosravi&show_icons=true&locale=en&layout=compact" alt="husskhosravi" />
