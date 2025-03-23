@@ -22,7 +22,29 @@
 - Generative AI in Healthcare
 - Data Visualisation and Storytelling
 ### ⚙️ Tech Stack
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-SQL-05122A?style=flat-square&logo=SQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&logo=Power-BI&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Azure-05122A?style=flat-square&logo=Azure&color=353535) ![Bootstrap](https://img.shields.io/badge/-AWS-05122A?style=flat-square&logo=AWS&color=353535) ![Bootstrap](https://img.shields.io/badge/-GCP-05122A?style=flat-square&logo=GCP&color=353535) ![Bootstrap](https://img.shields.io/badge/-Snowflake-05122A?style=flat-square&logo=Snowflake&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=Kubernetes&color=353535) ![Bootstrap](https://img.shields.io/badge/-CI/CD-05122A?style=flat-square&logo=CI/CD&color=353535) ![Bootstrap](https://img.shields.io/badge/-DBT-05122A?style=flat-square&logo=DBT&color=353535) ![Bootstrap](https://img.shields.io/badge/-Jupyter-05122A?style=flat-square&logo=Jupyter&color=353535) ![Bootstrap](https://img.shields.io/badge/-VS%20Code-05122A?style=flat-square&logo=VS-Code&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Seaborn-05122A?style=flat-square&logo=Seaborn&color=353535) ![Bootstrap](https://img.shields.io/badge/-apache-airflow-05122A?style=flat-square&logo=apache-airflow&color=353535)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) 
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat-square&logo=SQL&color=353535) 
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&logo=Power-BI&color=353535) 
+![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535) 
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) 
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) 
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat-square&logo=microsoft-azure&color=353535) 
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat-square&logo=amazon-aws&color=353535) 
+![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat-square&logo=google-cloud&color=353535) 
+![Snowflake](https://img.shields.io/badge/-Snowflake-05122A?style=flat-square&logo=Snowflake&color=353535) 
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=Kubernetes&color=353535) 
+![CI/CD](https://img.shields.io/badge/-CI/CD-05122A?style=flat-square&logo=github-actions&color=353535) 
+![DBT](https://img.shields.io/badge/-DBT-05122A?style=flat-square&logo=dbt&color=353535) 
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat-square&logo=Jupyter&color=353535) 
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat-square&logo=visual-studio-code&color=353535) 
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) 
+![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) 
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) 
+![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat-square&logo=Seaborn&color=353535) 
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-05122A?style=flat-square&logo=apache-airflow&color=353535)
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=husskhosravi&show_icons=true&locale=en&layout=compact" alt="husskhosravi" />
