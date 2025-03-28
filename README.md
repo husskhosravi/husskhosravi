@@ -10,8 +10,8 @@
 - 🚀 Core MLOps Principles → [View on GitHub](https://github.com/husskhosravi/simple-mlops-project)
 - 📊 Breast Cancer Survival Prediction → [View on GitHub](https://github.com/husskhosravi/breast-cancer-survival)
 - 📈 Consumption Forecasting using Time Series Models → [View on GitHub](https://github.com/husskhosravi/ML-timeseries-forecasting)
-- 🔍 Enquiry Complexity Clustering
 - 📉 FTE Forecasting Model
+- 🔍 Enquiry Complexity Clustering
 - 🧾 Medical Claims Processing w/ GenAI
 ### 🖥 Skills
 - Predictive Modelling
