@@ -30,7 +30,7 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) 
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat-square&logo=microsoftazure&color=353535) 
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white) 
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat-square&logo=amazonwebservices&color=353535) 
 ![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat-square&logo=googlecloud&color=353535) 
 ![Snowflake](https://img.shields.io/badge/-Snowflake-05122A?style=flat-square&logo=Snowflake&color=353535) 
