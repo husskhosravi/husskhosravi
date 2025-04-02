@@ -16,7 +16,7 @@
 ### 🖥 Skills
 - Predictive Modelling
 - Deep Learning
-- Natural Language Processing
+- Natural Language Processing (NLP)
 - Contact Centre WFM Modelling (Workforce Management) & FTE Forecasting
 - Clustering & Segmentation
 - Generative AI in Healthcare
