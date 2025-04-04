@@ -45,6 +45,7 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) 
 ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat-square&logo=Seaborn&color=353535) 
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-05122A?style=flat-square&logo=apacheairflow&color=353535)
+![YOLO](https://img.shields.io/badge/-YOLO-05122A?style=flat-square&logo=yolo&color=353535)
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=husskhosravi&show_icons=true&locale=en&layout=compact" alt="husskhosravi" />
