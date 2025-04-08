@@ -14,13 +14,13 @@
 - 🔍 Enquiry Complexity Clustering
 - 🧾 Medical Claims Processing w/ GenAI
 ### 🖥 Skills
+- Data Visualisation and Storytelling
 - Predictive Modelling
 - Deep Learning
 - Natural Language Processing (NLP)
 - Contact Centre WFM Modelling (Workforce Management) & FTE Forecasting
-- Clustering & Segmentation
 - Generative AI in Healthcare
-- Data Visualisation and Storytelling
+- Clustering & Segmentation
 ### ⚙️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) 
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat-square&logo=SQL&color=353535) 
