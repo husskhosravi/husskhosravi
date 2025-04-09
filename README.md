@@ -19,8 +19,8 @@
 - Deep Learning
 - Natural Language Processing (NLP)
 - Contact Centre WFM Modelling (Workforce Management) & FTE Forecasting
-- Generative AI in Healthcare
 - Clustering & Segmentation
+- Generative AI in Healthcare
 ### ⚙️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) 
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat-square&logo=SQL&color=353535) 
