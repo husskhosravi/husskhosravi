@@ -7,7 +7,7 @@
 -  📫 How to reach me: huss.khosravi@gmail.com
 -  📚 I'm currently learning: Finetuning LLMs (via [DeepLearning.ai](https://www.deeplearning.ai)), Advanced Retrieval with ChromaDB,  Azure ML & Deployment Pipelines
 ### 🧠 Recent Projects
-- 🚀 Core MLOps Principles → [View on GitHub](https://github.com/husskhosravi/simple-mlops-project)
+- 🚀 Healthcare Claims Pipeline using Apache Airflow → [View on GitHub](https://github.com/husskhosravi/healthcare-claims-pipeline)
 - 📊 Breast Cancer Survival Prediction → [View on GitHub](https://github.com/husskhosravi/breast-cancer-survival)
 - 📈 Consumption Forecasting using Time Series Models → [View on GitHub](https://github.com/husskhosravi/ML-timeseries-forecasting)
 - 📉 FTE Forecasting Model → [View on GitHub](https://github.com/husskhosravi/bank-loan-forecasting)
