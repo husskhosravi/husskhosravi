@@ -9,7 +9,6 @@
 ### 🧠 Recent Projects
 - 🚀 Healthcare Claims Pipeline using Apache Airflow → [View on GitHub](https://github.com/husskhosravi/healthcare-claims-pipeline)
 - 📉 FTE Forecasting Model → [View on GitHub](https://github.com/husskhosravi/bank-loan-forecasting)
-- 📊 Breast Cancer Survival Prediction → [View on GitHub](https://github.com/husskhosravi/breast-cancer-survival)
 - 📈 Consumption Forecasting using Time Series Models → [View on GitHub](https://github.com/husskhosravi/ML-timeseries-forecasting)
 - 🔍 Enquiry Complexity Clustering
 - 🧾 Medical Claims Processing w/ GenAI
