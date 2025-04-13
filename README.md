@@ -1,5 +1,5 @@
 #  Huss Khosravi
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/huss-khosravi/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:huss.khosravi@gmail.com) [![Github](https://img.shields.io/github/followers/husskhosravi?label=Follow&style=social)](https://github.com/husskhosravi) [![Resume](https://img.shields.io/badge/Resume-PDF-blue)](./Huss.Khosravi_Resume.pdf)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/huss-khosravi/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:huss.khosravi@gmail.com) [![Github](https://img.shields.io/github/followers/husskhosravi?label=Follow&style=social)](https://github.com/husskhosravi) 
 
 👋 Hi, I’m Huss. Welcome to my GitHub page!
 
