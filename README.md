@@ -19,7 +19,7 @@
 - Predictive Modelling
 - Deep Learning
 - Natural Language Processing (NLP)
-- Contact Centre WFM Modelling (Workforce Management) & FTE Forecasting
+- WFM Modelling (Workforce Management) & FTE Forecasting
 - Clustering & Segmentation
 - Generative AI in Healthcare
 ### ⚙️ Tech Stack
