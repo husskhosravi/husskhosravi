@@ -38,7 +38,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=Kubernetes&color=353535) 
 ![CI/CD](https://img.shields.io/badge/-CI/CD-05122A?style=flat-square&logo=github-actions&color=353535) 
-![DBT](https://img.shields.io/badge/-DBT-05122A?style=flat-square&logo=dbt&color=353535) 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat-square&logo=Jupyter&color=353535) 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat-square&logo=visualstudiocode&color=353535) 
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=pandas&color=353535) 
