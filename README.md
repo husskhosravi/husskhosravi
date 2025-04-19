@@ -25,7 +25,8 @@
 ### ⚙️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) 
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat-square&logo=SQL&color=353535) 
-![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&logo=powerbi&color=353535) 
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&logo=powerbi&color=353535)
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&logo=tableau&color=353535)
 ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=scikit-learn&color=353535) 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535) 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) 
