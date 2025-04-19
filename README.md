@@ -47,7 +47,11 @@
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-05122A?style=flat-square&logo=apacheairflow&color=353535)
 ![YOLO](https://img.shields.io/badge/-YOLO-05122A?style=flat-square&logo=yolo&color=353535)
 ![Databricks](https://img.shields.io/badge/-Databricks-05122A?style=flat-square&logo=Databricks&color=353535)
-
+![Azure Data Factory](https://img.shields.io/badge/-Azure%20Data%20Factory-05122A?style=flat-square&logo=Azure-Data-Factory&color=353535)
+![AWS Glue](https://img.shields.io/badge/-AWS%20Glue-05122A?style=flat-square&logo=Amazon-AWS&color=353535)
+![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-05122A?style=flat-square&logo=amazons3&color=353535)
+![Amazon Redshift](https://img.shields.io/badge/-Amazon%20Redshift-05122A?style=flat-square&logo=amazonredshift&color=353535)
+![Amazon RDS](https://img.shields.io/badge/-Amazon%20RDS-05122A?style=flat-square&logo=amazonrds&color=353535)
 
 
 <div>
