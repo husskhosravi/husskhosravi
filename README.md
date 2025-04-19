@@ -14,7 +14,7 @@
 - 📈 Consumption Forecasting using Time Series Models → [View on GitHub](https://github.com/husskhosravi/ML-timeseries-forecasting)
 - 🔮 Object Detection using YOLOv8 → [View on GitHub](https://github.com/husskhosravi/yolo-object-detection)
 - 🧾 Medical Claims Processing w/ GenAI
-### 🖥 Skills
+### 🛠️ Skills
 - Data Visualisation and Storytelling
 - Predictive Modelling
 - Deep Learning
