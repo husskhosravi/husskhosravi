@@ -46,12 +46,8 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat-square&logo=Seaborn&color=353535) 
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-05122A?style=flat-square&logo=apacheairflow&color=353535)
 ![YOLO](https://img.shields.io/badge/-YOLO-05122A?style=flat-square&logo=yolo&color=353535)
-![Azure Data Factory](https://img.shields.io/badge/-Azure%20Data%20Factory-05122A?style=flat-square&logo=Microsoft%20Azure&logoColor=white&color=353535)
-![Azure Synapse Analytics](https://img.shields.io/badge/-Azure%20Synapse%20Analytics-05122A?style=flat-square&logo=Microsoft%20Azure&logoColor=white&color=353535)
-![AWS Glue](https://img.shields.io/badge/-AWS%20Glue-05122A?style=flat-square&logo=Amazon%20AWS&logoColor=white&color=353535)
-![Amazon Athena](https://img.shields.io/badge/-Amazon%20Athena-05122A?style=flat-square&logo=Amazon%20AWS&logoColor=white&color=353535)
-![Amazon QuickSight](https://img.shields.io/badge/-Amazon%20QuickSight-05122A?style=flat-square&logo=Amazon%20AWS&logoColor=white&color=353535)
-![Amazon Redshift](https://img.shields.io/badge/-Amazon%20Redshift-05122A?style=flat-square&logo=Amazon%20AWS&logoColor=white&color=353535)
+![Databricks](https://img.shields.io/badge/-Databricks-05122A?style=flat-square&logo=Databricks&color=353535)
+
 
 
 <div>
