@@ -5,7 +5,7 @@
 
 -  💼 Data Scientist @ Bevington Group | 🧠 Data Analytics, AI, Business Strategy
 -  📫 How to reach me: huss.khosravi@gmail.com
--  📚 I'm currently learning: Finetuning LLMs (via [DeepLearning.ai](https://www.deeplearning.ai)), Advanced Retrieval with ChromaDB,  Azure ML & Deployment Pipelines
+-  📚 I'm currently learning: Finetuning LLMs (via [DeepLearning.ai](https://www.deeplearning.ai)), Advanced Retrieval with ChromaDB
 ### 🧠 Recent Projects
 - 💳 Credit Card Fraud Detection → [View on GitHub](https://github.com/husskhosravi/credit-card-fraud-detection)
 - 🏗️ Azure Data Factory & Synapse Pipelines for PayPal Transactions → [View on GitHub](https://github.com/husskhosravi/azure-datafactory-synapse-pipelines)
