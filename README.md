@@ -12,7 +12,6 @@
 - ☁️ Serverless AWS Data Pipeline → [View on GitHub](https://github.com/husskhosravi/athena-glue-s3-pipeline)
 - 🚀 Healthcare Claims Pipeline using Apache Airflow → [View on GitHub](https://github.com/husskhosravi/healthcare-claims-pipeline)
 - 📉 Loan Application Analysis & FTE Forecasting Model → [View on GitHub](https://github.com/husskhosravi/bank-loan-forecasting)
-- 📈 Consumption Forecasting using Time Series Models → [View on GitHub](https://github.com/husskhosravi/ML-timeseries-forecasting)
 - 🔮 Object Detection using YOLOv8 → [View on GitHub](https://github.com/husskhosravi/yolo-object-detection)
 ### 🛠️ Skills
 - Data Visualisation and Storytelling
