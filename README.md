@@ -7,9 +7,9 @@
 -  📫 How to reach me: huss.khosravi@gmail.com
 -  📚 I'm currently learning: Finetuning LLMs (via [DeepLearning.ai](https://www.deeplearning.ai)), Advanced Retrieval with ChromaDB
 ### 🧠 Recent Projects
+- ☁️ Yelp Reviews Analytics Pipeline (AWS + Snowflake + Python) → [View on GitHub](https://github.com/husskhosravi/aws-snowflake-analytics-pipeline)
 - 💳 Credit Card Fraud Detection → [View on GitHub](https://github.com/husskhosravi/credit-card-fraud-detection)
 - 🏗️ Azure Data Factory & Synapse Pipelines for PayPal Transactions → [View on GitHub](https://github.com/husskhosravi/azure-datafactory-synapse-pipelines)
-- ☁️ Serverless AWS Data Pipeline → [View on GitHub](https://github.com/husskhosravi/athena-glue-s3-pipeline)
 - 🚀 Healthcare Claims Pipeline using Apache Airflow → [View on GitHub](https://github.com/husskhosravi/healthcare-claims-pipeline)
 - 📉 Loan Application Analysis & FTE Forecasting Model → [View on GitHub](https://github.com/husskhosravi/bank-loan-forecasting)
 - 🔮 Object Detection using YOLOv8 → [View on GitHub](https://github.com/husskhosravi/yolo-object-detection)
