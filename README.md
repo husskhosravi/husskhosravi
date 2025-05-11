@@ -12,7 +12,7 @@
 - 🏗️ Azure Data Factory & Synapse Pipelines for PayPal Transactions → [View on GitHub](https://github.com/husskhosravi/azure-datafactory-synapse-pipelines)
 - 🚀 Healthcare Claims Pipeline using Apache Airflow → [View on GitHub](https://github.com/husskhosravi/healthcare-claims-pipeline)
 - 📉 Loan Application Analysis & FTE Forecasting Model → [View on GitHub](https://github.com/husskhosravi/bank-loan-forecasting)
-- 🔮 Object Detection using YOLOv8 → [View on GitHub](https://github.com/husskhosravi/yolo-object-detection)
+- 🔮 End-to-End Data Warehousing with Snowflake, S3 and ELT → [View on GitHub](https://github.com/husskhosravi/elt-data-warehouse-snowflake)
 ### 🛠️ Skills
 - Data Visualisation and Storytelling
 - Predictive Modelling
