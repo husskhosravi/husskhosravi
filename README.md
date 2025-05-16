@@ -5,7 +5,7 @@
 
 -  💼 Data Scientist @ Bevington Group | 🧠 Data Analytics, AI, Business Strategy
 -  📫 How to reach me: huss.khosravi@gmail.com
--  📚 I'm currently learning: Finetuning LLMs (via [DeepLearning.ai](https://www.deeplearning.ai)), dbt (Data Build Tool) for modular SQL transformations, testing, and scalable data pipelines
+-  📚 I'm currently learning: Finetuning LLMs (via [DeepLearning.ai](https://www.deeplearning.ai)), dbt (Data Build Tool) for modular SQL transformations, testing and scalable data pipelines
 ### 🧠 Recent Projects
 - ❄️ Yelp Reviews Analytics Pipeline (AWS + Snowflake + Python) → [View on GitHub](https://github.com/husskhosravi/aws-snowflake-analytics-pipeline)
 - 💳 Credit Card Fraud Detection → [View on GitHub](https://github.com/husskhosravi/credit-card-fraud-detection)
