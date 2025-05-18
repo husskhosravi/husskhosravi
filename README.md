@@ -7,6 +7,7 @@
 -  📫 How to reach me: huss.khosravi@gmail.com
 -  📚 I'm currently learning: Finetuning LLMs (via [DeepLearning.ai](https://www.deeplearning.ai)), dbt (Data Build Tool) for modular SQL transformations, testing and scalable data pipelines
 ### 🧠 Recent Projects
+- 🔄 Real-Time ELT Orchestration using Snowpipe, Streams, and Tasks in Snowflake → [View on GitHub](https://github.com/husskhosravi/cricket-analytics-snowflake-pipeline)
 - ❄️ Yelp Reviews Analytics Pipeline (AWS + Snowflake + Python) → [View on GitHub](https://github.com/husskhosravi/aws-snowflake-analytics-pipeline)
 - 💳 Credit Card Fraud Detection → [View on GitHub](https://github.com/husskhosravi/credit-card-fraud-detection)
 - 🏗️ Azure Data Factory & Synapse Pipelines for PayPal Transactions → [View on GitHub](https://github.com/husskhosravi/azure-datafactory-synapse-pipelines)
