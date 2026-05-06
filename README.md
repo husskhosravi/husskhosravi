@@ -3,7 +3,7 @@
 
 👋 Hi, I’m Huss. Welcome to my GitHub page!
 
--  💼 Diagnostics & Solutions @ NAB | 🧠 Data Analytics, AI, Business Strategy
+-  💼 Senior Consultant, Process Mining @ NAB | 🧠 Data Analytics, AI, Business Strategy
 -  📫 How to reach me: huss.khosravi@gmail.com
 -  📚 I'm currently learning: Finetuning LLMs (via [DeepLearning.ai](https://www.deeplearning.ai)), dbt (Data Build Tool) for modular SQL transformations, testing and scalable data pipelines
 ### 🧠 Recent Projects
