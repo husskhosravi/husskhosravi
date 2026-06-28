@@ -5,8 +5,9 @@
 
 -  💼 Senior Consultant, Process Mining @ NAB | 🧠 Data Analytics, AI, Pocess Intelligence
 -  📫 How to reach me: huss.khosravi@gmail.com
--  📚 I'm currently learning: Finetuning LLMs (via [DeepLearning.ai](https://www.deeplearning.ai)), dbt (Data Build Tool) for modular SQL transformations, testing and scalable data pipelines
+-  📚 I'm currently learning: Agentic AI systems (LangGraph, MCP, multi-agent workflows), Finetuning LLMs, dbt (Data Build Tool) for modular SQL transformations
 ### 🧠 Recent Projects
+- 🤖 Agentic AI for Process Mining Literature Research → [View on GitHub](https://github.com/husskhosravi/process-mining-agentic-research)
 - 🔄 Real-Time ELT Orchestration using Snowpipe, Streams, and Tasks in Snowflake → [View on GitHub](https://github.com/husskhosravi/cricket-analytics-snowflake-pipeline)
 - ❄️ Yelp Reviews Analytics Pipeline (AWS + Snowflake + Python) → [View on GitHub](https://github.com/husskhosravi/aws-snowflake-analytics-pipeline)
 - 💳 Credit Card Fraud Detection → [View on GitHub](https://github.com/husskhosravi/credit-card-fraud-detection)
