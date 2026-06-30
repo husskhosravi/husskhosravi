@@ -2,6 +2,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/huss-khosravi/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:huss.khosravi@gmail.com) [![Github](https://img.shields.io/github/followers/husskhosravi?label=Follow&style=social)](https://github.com/husskhosravi) 
 
 👋 Hi, I’m Huss. Welcome to my GitHub page!
+[![Hugging Face Space](https://img.shields.io/badge/🤗%20Try%20My%20AI%20Twin-Live%20Demo-yellow?style=flat)](https://huggingface.co/spaces/HussKh/twin)
+
 
 -  💼 Senior Consultant, Process Mining @ NAB | 🧠 Data Analytics, AI, Pocess Intelligence
 -  📫 How to reach me: huss.khosravi@gmail.com
