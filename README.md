@@ -22,18 +22,9 @@
 - 🚀 **[Healthcare Claims Pipeline](https://github.com/husskhosravi/healthcare-claims-pipeline)** | *Apache Airflow, Python*
 
 **📉 Data Science & Advanced Analytics**
+- 💳 **[Credit Card Fraud Detection](https://github.com/husskhosravi/credit-card-fraud-detection)** | *Python, XGBoost, Random Forest, SMOTE*
 - 📉 **[Loan Application Analysis & FTE Forecasting](https://github.com/husskhosravi/bank-loan-forecasting)** | *Python, Scikit-Learn, Pandas*
 
-- 
-### ✨ Recent Projects
-- 🧠 Multi-agent Deep Research Pipeline built with the OpenAI Agents SDK → [View on GitHub](https://github.com/husskhosravi/agentic_deep-research)
-- 🤖 Agentic AI for Process Mining Literature Research → [View on GitHub](https://github.com/husskhosravi/process-mining-agentic-research)
-- 🔄 Real-Time ELT Orchestration using Snowpipe, Streams, and Tasks in Snowflake → [View on GitHub](https://github.com/husskhosravi/cricket-analytics-snowflake-pipeline)
-- ❄️ Yelp Reviews Analytics Pipeline (AWS + Snowflake + Python) → [View on GitHub](https://github.com/husskhosravi/aws-snowflake-analytics-pipeline)
-- 🏗️ Azure Data Factory & Synapse Pipelines for PayPal Transactions → [View on GitHub](https://github.com/husskhosravi/azure-datafactory-synapse-pipelines)
-- 🚀 Healthcare Claims Pipeline using Apache Airflow → [View on GitHub](https://github.com/husskhosravi/healthcare-claims-pipeline)
-- 📉 Loan Application Analysis & FTE Forecasting Model → [View on GitHub](https://github.com/husskhosravi/bank-loan-forecasting)
-- 🔮 End-to-End Data Warehousing with Snowflake, S3 and ELT → [View on GitHub](https://github.com/husskhosravi/elt-data-warehouse-snowflake)
 ### 🛠️ Skills
 - Data Visualisation and Storytelling
 - Predictive Modelling
