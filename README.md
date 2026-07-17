@@ -7,6 +7,24 @@
 -  💼 Senior Consultant, Process Mining @ NAB | 🧠 Data Analytics, AI, Pocess Intelligence
 -  📫 How to reach me: huss.khosravi@gmail.com
 -  📚 I'm currently learning: Agentic AI systems (LangGraph, MCP, multi-agent workflows), Finetuning LLMs, dbt (Data Build Tool) for modular SQL transformations
+
+  ### ✨ Recent Projects
+
+**🤖 Agentic AI & Applied Research**
+- 🧠 **[Multi-agent Deep Research Pipeline](https://github.com/husskhosravi/agentic_deep-research)** | *OpenAI Agents SDK, Python*
+- 🤖 **[Process Mining Literature Research Agent](https://github.com/husskhosravi/process-mining-agentic-research)** | *Agentic AI, LLMs, Python*
+
+**⚙️ Data Engineering & Cloud Architecture**
+- 🔮 **[End-to-End Data Warehousing](https://github.com/husskhosravi/elt-data-warehouse-snowflake)** | *Snowflake, AWS S3, ELT*
+- 🔄 **[Real-Time ELT Orchestration](https://github.com/husskhosravi/cricket-analytics-snowflake-pipeline)** | *Snowflake (Snowpipe, Streams, Tasks)*
+- ❄️ **[Yelp Reviews Analytics Pipeline](https://github.com/husskhosravi/aws-snowflake-analytics-pipeline)** | *AWS, Snowflake, Python*
+- 🏗️ **[PayPal Transactions Pipeline](https://github.com/husskhosravi/azure-datafactory-synapse-pipelines)** | *Azure Data Factory, Azure Synapse*
+- 🚀 **[Healthcare Claims Pipeline](https://github.com/husskhosravi/healthcare-claims-pipeline)** | *Apache Airflow, Python*
+
+**📉 Data Science & Advanced Analytics**
+- 📉 **[Loan Application Analysis & FTE Forecasting](https://github.com/husskhosravi/bank-loan-forecasting)** | *Python, Scikit-Learn, Pandas*
+
+- 
 ### ✨ Recent Projects
 - 🧠 Multi-agent Deep Research Pipeline built with the OpenAI Agents SDK → [View on GitHub](https://github.com/husskhosravi/agentic_deep-research)
 - 🤖 Agentic AI for Process Mining Literature Research → [View on GitHub](https://github.com/husskhosravi/process-mining-agentic-research)
