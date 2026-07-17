@@ -12,8 +12,8 @@
 
 **🤖 Agentic AI & Applied Research**
 - 🧠 **[Autonomous Multi-Agent Engineering Team](https://github.com/husskhosravi/crewai-engineering-team)** | *CrewAI, MCP, Docker, Gradio, Python*
-- 🧠 **[Multi-agent Deep Research Pipeline](https://github.com/husskhosravi/agentic_deep-research)** | *OpenAI Agents SDK, Python*
-- 🤖 **[Process Mining Literature Research Agent](https://github.com/husskhosravi/process-mining-agentic-research)** | *Agentic AI, LLMs, Python*
+- 🔭 **[Multi-agent Deep Research Pipeline](https://github.com/husskhosravi/agentic_deep-research)** | *OpenAI Agents SDK, Python*
+- 📚 **[Process Mining Literature Research Agent](https://github.com/husskhosravi/process-mining-agentic-research)** | *Agentic AI, LLMs, Python*
 
 **⚙️ Data Engineering & Cloud Architecture**
 - 🔮 **[End-to-End Data Warehousing](https://github.com/husskhosravi/elt-data-warehouse-snowflake)** | *Snowflake, AWS S3, ELT*
