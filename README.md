@@ -11,6 +11,7 @@
   ### ✨ Recent Projects
 
 **🤖 Agentic AI & Applied Research**
+- 🦸‍♂️ **[Sidekick — Autonomous Task Agent](https://github.com/husskhosravi/sidekick-langgraph-agent)** | *LangChain, LangGraph, MCP, Gradio, Python*
 - 🧠 **[Autonomous Multi-Agent Engineering Team](https://github.com/husskhosravi/crewai-engineering-team)** | *CrewAI, MCP, Docker, Gradio, Python*
 - 🔭 **[Multi-agent Deep Research Pipeline](https://github.com/husskhosravi/agentic_deep-research)** | *OpenAI Agents SDK, Python*
 - 📚 **[Process Mining Literature Research Agent](https://github.com/husskhosravi/process-mining-agentic-research)** | *Agentic AI, LLMs, Python*
