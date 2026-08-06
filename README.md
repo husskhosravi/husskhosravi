@@ -74,3 +74,14 @@
     </td>
     </tr>
 </table>
+
+
+### 🤗 AI Twin live demo
+
+<a href="https://raw.githubusercontent.com/husskhosravi/husskhosravi/main/assets/digital-twin-demo.gif">
+  </a>
+
+<a href="https://huggingface.co/spaces/HussKh/twin">
+  <img alt="AI Twin demo" width="30%" src="./assets/digital-twin-demo.gif" />
+</a>
+<p><sub>Ask my AI Twin about my background. The Space may take ~30s to wake on first visit</sub><p>
