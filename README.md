@@ -67,7 +67,10 @@
 ![Amazon Redshift](https://img.shields.io/badge/-Amazon%20Redshift-05122A?style=flat-square&logo=amazonredshift&color=353535)
 ![Amazon RDS](https://img.shields.io/badge/-Amazon%20RDS-05122A?style=flat-square&logo=amazonrds&color=353535)
 
-<div>
-  <img width="33%" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=husskhosravi&theme=dark" alt="husskhosravi" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=husskhosravi&" alt="husskhosravi" />
-</div>
+<table border="0">
+  <tr>
+    <td valign="middle" width="50%">
+      <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=husskhosravi&hide_border=true" />
+    </td>
+    </tr>
+</table>
