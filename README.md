@@ -82,6 +82,6 @@
   </a>
 
 <a href="https://huggingface.co/spaces/HussKh/twin">
-  <img alt="AI Twin demo" width="40%" src="./assets/digital-twin-demo.gif" />
+  <img alt="AI Twin demo" width="60%" src="./assets/digital-twin-demo.gif" />
 </a>
 <p><sub>Ask my AI Twin about my background. The Space may take ~30s to wake on first visit</sub><p>
