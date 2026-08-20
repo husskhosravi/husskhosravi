@@ -2,32 +2,60 @@ name: Update streak stats
 
 on:
   schedule:
-    - cron: "0 18 * * *" # 04:00 Melbourne (AEST) / 05:00 (AEDT)
+    - cron: "0 18 * * *"
   push:
     paths:
       - ".github/workflows/streak-stats.yml"
-  workflow_dispatch: # Run manually from the Actions tab
+  workflow_dispatch:
+
+concurrency:
+  group: streak-stats
+  cancel-in-progress: false
+
+permissions: {}
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
-
+      contents: read
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
 
       - name: Generate streak stats
-        uses: DenverCoder1/github-readme-streak-stats@main
+        uses: DenverCoder1/github-readme-streak-stats@PIN_SHA
         with:
           options: user=${{ github.repository_owner }}&hide_border=true&disable_animations=true
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: streak-svg
+          path: profile/streak.svg
+          retention-days: 1
+
+  commit:
+    needs: generate
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: streak-svg
+          path: profile
 
       - name: Commit streak stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/streak.svg
-          git commit -m "Update streak stats" || exit 0
+          git diff --staged --quiet && echo "No changes" && exit 0
+          git commit -m "Update streak stats"
+          git pull --rebase
           git push
