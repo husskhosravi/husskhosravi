@@ -4,7 +4,7 @@
 
 👋 Hi, I’m Huss. Welcome to my GitHub page!
 
--  💼 Senior Consultant, Process Mining @ NAB | 🧠 Data Analytics, AI, Pocess Intelligence
+-  💼 Senior Consultant, Process Mining @ NAB | 🧠 Data Analytics, AI, Process Intelligence
 -  📫 How to reach me: huss.khosravi@gmail.com
 -  📚 I'm currently learning: Agentic AI systems (LangGraph, MCP, multi-agent workflows), Finetuning LLMs, dbt (Data Build Tool) for modular SQL transformations
 
@@ -67,18 +67,13 @@
 ![Amazon Redshift](https://img.shields.io/badge/-Amazon%20Redshift-05122A?style=flat-square&logo=amazonredshift&color=353535)
 ![Amazon RDS](https://img.shields.io/badge/-Amazon%20RDS-05122A?style=flat-square&logo=amazonrds&color=353535)
 
-
 <a href="https://git.io/streak-stats">
   <img alt="GitHub streak" width="60%" src="./profile/streak.svg" />
 </a>
 
 ### 🤗 AI Twin live demo
 
-<a href="https://raw.githubusercontent.com/husskhosravi/husskhosravi/main/assets/digital-twin-demo.gif">
-  </a>
-
 <a href="https://huggingface.co/spaces/HussKh/twin">
   <img alt="AI Twin demo" width="60%" src="./assets/digital-twin-demo.gif" />
 </a>
 <p><sub>Ask my AI Twin about my background. The Space may take ~30s to wake on first visit</sub><p>
-
