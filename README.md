@@ -67,14 +67,10 @@
 ![Amazon Redshift](https://img.shields.io/badge/-Amazon%20Redshift-05122A?style=flat-square&logo=amazonredshift&color=353535)
 ![Amazon RDS](https://img.shields.io/badge/-Amazon%20RDS-05122A?style=flat-square&logo=amazonrds&color=353535)
 
-<table border="0">
-  <tr>
-    <td valign="middle" width="50%">
-      <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=husskhosravi&hide_border=true" />
-    </td>
-    </tr>
-</table>
 
+<a href="https://git.io/streak-stats">
+  <img alt="GitHub streak" width="60%" src="./profile/streak.svg" />
+</a>
 
 ### 🤗 AI Twin live demo
 
@@ -85,3 +81,4 @@
   <img alt="AI Twin demo" width="60%" src="./assets/digital-twin-demo.gif" />
 </a>
 <p><sub>Ask my AI Twin about my background. The Space may take ~30s to wake on first visit</sub><p>
+
