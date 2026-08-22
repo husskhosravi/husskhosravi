@@ -25,7 +25,7 @@ jobs:
           persist-credentials: false
 
       - name: Generate streak stats
-        uses: DenverCoder1/github-readme-streak-stats@PIN_SHA
+        uses: DenverCoder1/github-readme-streak-stats@v1.7.0
         with:
           options: user=${{ github.repository_owner }}&hide_border=true&disable_animations=true
           path: profile/streak.svg
