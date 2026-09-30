@@ -26,6 +26,7 @@
 **📉 Data Science & Advanced Analytics**
 - 💳 **[Credit Card Fraud Detection](https://github.com/husskhosravi/credit-card-fraud-detection)** | *Python, XGBoost, Random Forest, SMOTE*
 - 📉 **[Loan Application Analysis & FTE Forecasting](https://github.com/husskhosravi/bank-loan-forecasting)** | *Python, Scikit-Learn, Pandas*
+- 📦 **[Fulfilment Centre Order Forecasting & Scenario Analysis](https://github.com/husskhosravi/cfc-order-forecast)** | *Python, Holt-Winters (statsmodels), Backtesting, Excel*
 
 ### 🛠️ Skills
 - Data Visualisation and Storytelling
